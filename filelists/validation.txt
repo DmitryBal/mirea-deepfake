@@ -1,0 +1,88 @@
+dataset/wavs/AXxnsJaFCic_44100_12_1_short_1.wav|﻿but while he may make gains on the battlefield.
+dataset/wavs/AXxnsJaFCic_44100_12_1_short_2.wav|﻿he'll pay a continuing high price over the long run.
+dataset/wavs/AXxnsJaFCic_44100_12_2_short_1.wav|﻿that they will not tolerate anyone.
+dataset/wavs/AXxnsJaFCic_44100_12_2_short_2.wav|﻿who tries to take their country backwards.
+dataset/wavs/AXxnsJaFCic_44100_12_3_short.wav|﻿and i'm taking robust action to make sure the pain of our sanctions is targeted at russian economy.
+dataset/wavs/AXxnsJaFCic_44100_13_1_short_1.wav|﻿but i want you to know.
+dataset/wavs/AXxnsJaFCic_44100_13_1_short_2.wav|﻿we're going to be okay.
+dataset/wavs/AXxnsJaFCic_44100_14_1_short_1.wav|﻿in large crowds around the world even in russia.
+dataset/wavs/AXxnsJaFCic_44100_14_1_short_2.wav|﻿to demonstrate their support for the people of ukraine.
+dataset/wavs/AXxnsJaFCic_44100_14_2_short_1.wav|﻿it's gonna take time.
+dataset/wavs/AXxnsJaFCic_44100_14_2_short_2.wav|﻿so let us continue to draw inspiration from the iron will of the ukrainian people.
+dataset/wavs/AXxnsJaFCic_44100_15_2_short_1.wav|﻿that's why one of the first things i did as president.
+dataset/wavs/AXxnsJaFCic_44100_15_2_short_2.wav|﻿fight to pass the american rescue plan.
+dataset/wavs/AXxnsJaFCic_44100_1_short_1.wav|﻿last year COVID-nineteen kept us apart.
+dataset/wavs/AXxnsJaFCic_44100_1_short_2.wav|this year we are finally together again.
+dataset/wavs/AXxnsJaFCic_44100_20_1_short.wav|﻿we face with the rest of the world, particularly - china.
+dataset/wavs/AXxnsJaFCic_44100_23_1_long.wav|there's been a law on the books for almost a century to make sure taxpayers' dollars support american jobs and businesses. every administration democrat or republican says they'll do it, but we're actually we're actually doing it.
+dataset/wavs/AXxnsJaFCic_44100_24_1_long.wav|we also need to level the playing field with china and other competitors. that's why it's so important to pass the bipartisan innovation act sitting in congress that will make record investments in emerging technologies and american manufacturing.
+dataset/wavs/AXxnsJaFCic_44100_24_2_long.wav|wish to invest almost two percent of rgdp in research and development. we don't now. can't. china is. let me give you one example why it's so important a pass.
+dataset/wavs/AXxnsJaFCic_44100_24_2_short_1.wav|﻿if you travel twenty miles east of columbus, ohio.
+dataset/wavs/AXxnsJaFCic_44100_24_2_short_2.wav|﻿you'll find a thousand empty acres of land.
+dataset/wavs/AXxnsJaFCic_44100_24_2_short_3.wav|﻿it won't look like much.
+dataset/wavs/AXxnsJaFCic_44100_24_3_long.wav|but if you stop and look closely you'll see a field of dreams, the ground on which america's future will be built. that's where intell, the american company that helped build silicon valley.
+dataset/wavs/AXxnsJaFCic_44100_24_3_short_1.wav|﻿is going to build a twenty billion dollar.
+dataset/wavs/AXxnsJaFCic_44100_24_3_short_2.wav|﻿semiconductor magasite.
+dataset/wavs/AXxnsJaFCic_44100_24_4_long.wav|up to eight state of the art factories in one place. ten thousand new jobs. and those factories have the average job about a hundred thirty five dollars, hundred thirty five thousand dollars a year.
+dataset/wavs/AXxnsJaFCic_44100_25_long.wav|that would be the biggest investments in manufacturing in american history. and all they're waiting for is for you to pass this bill. so let's not wait any longer. send it to my desk. i'll sign it.
+dataset/wavs/AXxnsJaFCic_44100_26_1_long.wav|the revitalization of american manufacturing. companies are choosing to build new factories here, when just a few years ago, they would have gone overseas. that's what's happening.
+dataset/wavs/AXxnsJaFCic_44100_26_1_short_1.wav|﻿ford is investing eleven billion dollars in electric vehicles.
+dataset/wavs/AXxnsJaFCic_44100_26_1_short_2.wav|creating eleven thousand jobs across the country.
+dataset/wavs/AXxnsJaFCic_44100_29_1_long.wav|too many families are struggling to keep up with their bills. inflation is robbing them of the gains they thought otherwise they would be able to feel. i get it. that's why my top priority is getting prices under control.
+dataset/wavs/AXxnsJaFCic_44100_29_1_short_1.wav|look.
+dataset/wavs/AXxnsJaFCic_44100_29_1_short_2.wav|﻿our economy roared back faster than most anyone predicted.
+dataset/wavs/AXxnsJaFCic_44100_29_3_long.wav|the panic also disrupted the global supply chains. factories close, when that happens it takes longer to make goods and get them to the warehouses, to the stores and go prices go up.
+dataset/wavs/AXxnsJaFCic_44100_29_3_short_1.wav|﻿look at cars last year.
+dataset/wavs/AXxnsJaFCic_44100_29_3_short_2.wav|﻿one third of all the inflation was because of automobile sales.
+dataset/wavs/AXxnsJaFCic_44100_29_4_long.wav|there weren't enough semiconductors to make all the cars the people wanted to buy, and guess what, prices of automobiles went way up. especially used vehicles as well.
+dataset/wavs/AXxnsJaFCic_44100_29_4_short_1.wav|﻿and so we have a choice.
+dataset/wavs/AXxnsJaFCic_44100_29_4_short_2.wav|﻿one way to fight inflation is to drive down wages and make americans poorer.
+dataset/wavs/AXxnsJaFCic_44100_30_long.wav|more infrastructure and innovation in america. more goods moving faster and cheaper in america. more jobs where you can earn a good living in america.
+dataset/wavs/AXxnsJaFCic_44100_32_long.wav|seventeen nobel laureates in economics said my plan will ease long-term inflationary pressures. top business leaders and i believe most americans support the plan. here's the plan.
+dataset/wavs/AXxnsJaFCic_44100_34_1_long.wav|but drug companies charge families like joshua and his dad up to thirty times of that amount. i spoke with joshua's mom. imagine what it's like to look at your child who needs insulin to stay healthy.
+dataset/wavs/AXxnsJaFCic_44100_34_2_long.wav|what it does to your family, but what it does to your dignity, you're abilly to look your child in the eye, to be the parent you expect yourself to be. i really mean i think about that.
+dataset/wavs/AXxnsJaFCic_44100_35_long.wav|look, the american rescue plan is helping millions of families on affordable care act plans to save them twenty four hundred dollars a year on their health peremiums. let's close the coverage gap and make these savings permanent.
+dataset/wavs/AXxnsJaFCic_44100_36_long.wav|let rovide an investment tax credit to weatherize your home and your business to be energy efficient and get a tax credit for it. double america's clean energy production in solar, wind and so much more.
+dataset/wavs/AXxnsJaFCic_44100_39_long.wav|because they couldn't afford child care to be able to get back to work, generating economic growth. but my plan doesn't stop there, it also includes home and long-term care.
+dataset/wavs/AXxnsJaFCic_44100_43_1_long.wav|and my distinguished congress woman, we come from the land of corporate america. there're more corporations in corporated america than every other state in america combine.
+dataset/wavs/AXxnsJaFCic_44100_45_1_long.wav|it'll raise billions of dollars. that's why i've proposed closing loopholes so the very wealthy you don't pay who pay a lower tax rate than a teacher or a firefighter. so that's my plan but we've go more detail later.
+dataset/wavs/AXxnsJaFCic_44100_46_1_long.wav|my plan will not only lower costs to give families a fair shot, it will lower the deficit. the previous administration not only ballooned the deficit with those tax cuts for the very wealthy and corporations.
+dataset/wavs/AXxnsJaFCic_44100_46_2_long.wav|it undermined the watchdogs whose job was to keep pandemic relief funds from being wasted. remember, we had those debates. but whether not those watchdogs should be able to see every day how much money was being spent were those going to the right place.
+dataset/wavs/AXxnsJaFCic_44100_48_long.wav|the only president ever to cut the deficit by more than one trillion dollars in a single year. lowering your cost also meant demanding more competition. i'm a capitalist.
+dataset/wavs/AXxnsJaFCic_44100_49_1_long.wav|profits go up, and your prices go up, and they don't have to compete with small businesses and family farmers and ranchers. i need now tell some of my republican friends from those states. guess what.
+dataset/wavs/AXxnsJaFCic_44100_4_1_short_1.wav|﻿everyone from students to retirees teachers.
+dataset/wavs/AXxnsJaFCic_44100_4_1_short_2.wav|turned soldiers
+dataset/wavs/AXxnsJaFCic_44100_4_1_short_3.wav|﻿defending their homeland.
+dataset/wavs/AXxnsJaFCic_44100_50_long.wav|during the pandemic above have or doesn't these foreign-owned companies raised prices by as much as one thousand percent and made record profits.
+dataset/wavs/AXxnsJaFCic_44100_51_1_long.wav|that ends on my watch. medicare is going to set higher standards for nursing homes and make sure your loved ones get the care they deserve and that they inspect and they will look at closely.
+dataset/wavs/AXxnsJaFCic_44100_51_2_long.wav|we’ll also cut costs and keep the economy going strong by giving workers a fair shot, provide more training and apprenticeships, hire them based on their skills not just degrees.
+dataset/wavs/AXxnsJaFCic_44100_52_1_long.wav|build a better america. for more than two years covid has impacted every decision in our lives and the life of this nation. and i know you're tired, frustrated and exhausted.
+dataset/wavs/AXxnsJaFCic_44100_52_2_long.wav|but i also know this. because of the progress we made, because of your resillience and the tools that we have been provided by this congress, tonight i can say we're moving forward.
+dataset/wavs/AXxnsJaFCic_44100_52_3_long.wav|we've reached a new moment in the fight against covid nineteen with severe cases are down to a level not seen since july of last year. just a few days ago the centers for desaes control in prevention issued new mask guidelines.
+dataset/wavs/AXxnsJaFCic_44100_53_1_long.wav|and thanks to the progress we've made in the past year, covid nineteen no longer need control our lives. i know some are talking about living with covid nineteen, but tonight i say that we never will just accept living with covid nineteen.
+dataset/wavs/AXxnsJaFCic_44100_53_2_long.wav|and because this virus mutates and spreads we have to stay on guard. and here are four common sense steps as we move forward safely in my view. first, stay protected with vaccines and treatments.
+dataset/wavs/AXxnsJaFCic_44100_53_3_long.wav|if you're vacinated and boosted you have the highest degree of protection. we will never give up on vaccinating more americans. now i know parents with kids under five eager to see their vaccines authorized for the children.
+dataset/wavs/AXxnsJaFCic_44100_53_4_long.wav|scientists are working hard to get that done we'll be ready with plenty of vaccines if and when they do. we're all ready. we are also ready with antiviral treatments.
+dataset/wavs/AXxnsJaFCic_44100_53_5_long.wav|i've ordered more pills than anyone in the world has. pfizer's working over time to get us a million pills this month and more than double that next month.
+dataset/wavs/AXxnsJaFCic_44100_54_2_long.wav|and we've already ordered free test, if you already ordered free test tonight, i'm announsing you can order another group of test covid go to covid test at guv.
+dataset/wavs/AXxnsJaFCic_44100_54_3_long.wav|if necessary will be able to develop new vaccines in a hundred days instead of maybe months or years. and if congress presides the funds we need we'll have new stockpiles of tests, masks, pills ready if needed.
+dataset/wavs/AXxnsJaFCic_44100_57_1_long.wav|most americans can remove their masks and stay in the classroom and moved forward safely. we achieved this because we provided free vaccines, treatments, tests and masks.
+dataset/wavs/AXxnsJaFCic_44100_58_long.wav|the vast majority of americans have used these tools and may want again, we may need them again, so i expect congress and i hope he'll pass that quickly. fourth, we'll continue vaccinating the world.
+dataset/wavs/AXxnsJaFCic_44100_59_1_long.wav|you know, we've lost so much in covid nineteen. time with one another. worst of all much loss of life. let's use this moment to reset.
+dataset/wavs/AXxnsJaFCic_44100_5_1_short_1.wav|﻿and the cost and the threats to america and america to the world.
+dataset/wavs/AXxnsJaFCic_44100_5_1_short_2.wav|keep rising.
+dataset/wavs/AXxnsJaFCic_44100_5_2_short_1.wav|﻿american diplomacy matters.
+dataset/wavs/AXxnsJaFCic_44100_5_2_short_2.wav|﻿american resolve matters.
+dataset/wavs/AXxnsJaFCic_44100_5_3_short.wav|﻿he thought he could divide us at home in this chamber, in this nation.
+dataset/wavs/AXxnsJaFCic_44100_5_6_short_1.wav|﻿and now.
+dataset/wavs/AXxnsJaFCic_44100_5_6_short_2.wav|﻿now he has acted
+dataset/wavs/AXxnsJaFCic_44100_5_6_short_3.wav|﻿free world is holding him accountable.
+dataset/wavs/AXxnsJaFCic_44100_5_7_short.wav|﻿and supporting the people of ukraine.
+dataset/wavs/AXxnsJaFCic_44100_60_1_long.wav|but we can't change how we move forward, on covid nineteen and other issues we must face together. i recently visited the new york city police department days after the funerals of officer wilber mora and his partner, officer jason rivera.
+dataset/wavs/AXxnsJaFCic_44100_60_2_long.wav|they were responding to a nine eleven call when a man shot and killed them with a stolen gun. officer mora was twenty seven years old. officer rivera was twenty two years old. both dominican americans who grew up on the same streets.
+dataset/wavs/AXxnsJaFCic_44100_60_3_long.wav|i spoke with their families and i told them they were forever in debt for their sacrifices. and we'll carry on their mission to restore the trust an safety every community deserves.
+dataset/wavs/AXxnsJaFCic_44100_60_4_long.wav|i know what workes. investing in crime preventionand community police cops who'll walk to beat, who'll know the neighborhood and who can restore trust and safety. let's not abandon our streets.
+dataset/wavs/AXxnsJaFCic_44100_75_long.wav|we we do agree in a lot more things than we acknowledge. i signed eighty bipartisan bills into law last year. from preventing government shutdowns to protecting asian-americans from still-too- common hate crimes.
+dataset/wavs/AXxnsJaFCic_44100_78_1_long.wav|the american rescue plan gave schools money to hire teachers and help students make up for lost learning. i urge every parent to make sure your school, your school does just that.
+dataset/wavs/AXxnsJaFCic_44100_78_2_long.wav|children were also struggling before the pandemic. bullying, violence, trauma and the harms of social media. as frances haugen, who is here tonight with us.
+dataset/wavs/AXxnsJaFCic_44100_81_long.wav|these burnpits and incinerated waste wastes of war, medical and hazard material, jet fuel and so much more. and they come home.

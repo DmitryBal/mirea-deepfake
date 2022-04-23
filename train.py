@@ -43,6 +43,9 @@ def prepare_dataloaders(hparams):
     # Get data, data loaders and collate function ready
     trainset = TextMelLoader(hparams.training_files, hparams)
     valset = TextMelLoader(hparams.validation_files, hparams)
+    print("Train set lenght:", len(trainset))
+    print("Validation set lenght", len(valset))
+
     collate_fn = TextMelCollate(hparams.n_frames_per_step)
 
     if hparams.distributed_run:
@@ -85,6 +88,7 @@ def warm_start_model(checkpoint_path, model, ignore_layers):
     assert os.path.isfile(checkpoint_path)
     print("Warm starting model from checkpoint '{}'".format(checkpoint_path))
     checkpoint_dict = torch.load(checkpoint_path, map_location='cpu')
+    del checkpoint_dict['state_dict']['speaker_embedding.weight']
     model_dict = checkpoint_dict['state_dict']
     if len(ignore_layers) > 0:
         model_dict = {k: v for k, v in model_dict.items()
@@ -184,6 +188,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
         output_directory, log_directory, rank)
 
     train_loader, valset, collate_fn = prepare_dataloaders(hparams)
+    print("Train loader lenght", len(train_loader))
 
     # Load checkpoint if one exists
     iteration = 0
@@ -199,7 +204,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                 learning_rate = _learning_rate
             iteration += 1  # next iteration is iteration + 1
             epoch_offset = max(0, int(iteration / len(train_loader)))
-
+    print("Epoch offset:", epoch_offset)
     model.train()
     is_overflow = False
     # ================ MAIN TRAINNIG LOOP! ===================
