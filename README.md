@@ -1,4 +1,5 @@
 # Mirea deepfake hackathon case. Heavily based on original nvidia [repo](https://github.com/NVIDIA/tacotron2) of Tacotron2
+[Demo](https://colab.research.google.com/drive/1abGb29CHC_QAtiK5HkbU1HEw1-alFlNV?usp=sharing)
 
 ## Pre-requisites
 1. NVIDIA GPU + CUDA cuDNN
